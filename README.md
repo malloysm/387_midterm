@@ -1,7 +1,8 @@
 # 387_midterm
 This project interfaces a W2812B LED strip with an Arduino in a way which allows a user inexperienced with programming to easily create an LED matrix of their own dimensions and light it up with pixel art/animations.
 
-https://www.youtube.com/watch?v=Hkixe17eoJc
+Click the image to watch the demo in action:
+[![Watch the video](https://img.youtube.com/vi/Hkixe17eoJc/maxresdefault.jpg)](https://youtu.be/Hkixe17eoJc)
 
 ### Descriptions of Files Uploaded
 The following is the order in which the files were created.
